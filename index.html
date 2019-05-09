@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Kosmogadka ✨</title>
+        <style>
+            body {
+                margin: 0;
+            }
+
+            .background {
+                width: 100vw;
+                height: 100vh;
+                background: url('./images/galaxy.jpg') center center no-repeat;
+                background-size: cover;
+            }
+
+            .stars {
+                width: 100vw;
+                height: 100vh;
+            }
+        </style>
+    </head>
+    <body>
+        <!--
+            Inspired by http://www.spacexfm.com/
+            Background image: https://www.pexels.com/photo/astronomy-dark-evening-glowing-176851/
+        -->
+        <div class="background">
+            <div id="stars" class="stars"></div>
+        </div>
+        <script src="scripts/three.js" defer></script>
+        <script src="scripts/threex.windowresize.js" defer></script>
+        <script src="scripts/stars.js" defer></script>
+    </body>
+</html>
