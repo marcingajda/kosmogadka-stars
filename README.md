@@ -19,5 +19,5 @@ Heavily inspired by http://www.spacexfm.com/
 
 [Three.JS]: https://threejs.org/
 [THREEx.WindowResize]: https://github.com/jeromeetienne/threex.windowresize
-[Seb Lee-Delisle]: sebleedelisle.com
+[Seb Lee-Delisle]: http://sebleedelisle.com
 [InstaWalli]: https://www.pexels.com/photo/astronomy-dark-evening-glowing-176851/
